@@ -1,3 +1,8 @@
+package $347;
+
+import java.util.*;
+import java.util.stream.Collectors;
+
 class TopKFrequentElements {
     public List<Integer> topKFrequent(int[] nums, int k) {
         TreeMap<Integer, Integer> map = new TreeMap<>();

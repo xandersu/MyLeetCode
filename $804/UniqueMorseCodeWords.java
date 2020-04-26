@@ -1,3 +1,7 @@
+package $804;
+
+import java.util.TreeSet;
+
 public class UniqueMorseCodeWords {
 
     public int uniqueMorseRepresentations(String[] words) {
