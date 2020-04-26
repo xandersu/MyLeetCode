@@ -5,7 +5,7 @@ package $001TwoSum;
  * @date: 2020/4/26 10:26
  * @description:
  */
-public class TwoSum0426 {
+public class TwoSum200426 {
 
     public int[] twoSum(int[] nums, int target) {
         if (nums == null || nums.length < 2) {

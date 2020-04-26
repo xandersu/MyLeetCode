@@ -13,7 +13,7 @@ package $013;
  * C 可以放在 D (500) 和 M (1000) 的左边，来表示 400 和 900。
  * 给定一个罗马数字，将其转换成整数。输入确保在 1 到 3999 的范围内。
  */
-public class RomanToInt0426 {
+public class RomanToInt200426 {
 
     public int romanToInt(String s) {
         int result = 0;
@@ -96,7 +96,7 @@ public class RomanToInt0426 {
     }
 
     public static void main(String[] args) {
-        RomanToInt0426 romanToInt0426 = new RomanToInt0426();
+        RomanToInt200426 romanToInt0426 = new RomanToInt200426();
         int res = romanToInt0426.romanToInt("MCMXCIV");
         System.out.println(res);
     }

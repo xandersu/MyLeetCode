@@ -8,7 +8,7 @@ import java.util.List;
  * @date: 2020/4/26 10:44
  * @description:
  */
-public class PalindromeNumber0426 {
+public class PalindromeNumber200426 {
 
     public boolean isPalindrome(int x) {
         if (x < 0) {
@@ -38,7 +38,7 @@ public class PalindromeNumber0426 {
 
     public static void main(String[] args) {
 
-        PalindromeNumber0426 palindromeNumber = new PalindromeNumber0426();
+        PalindromeNumber200426 palindromeNumber = new PalindromeNumber200426();
         boolean palindrome = palindromeNumber.isPalindrome(121);
         System.out.println(palindrome);
     }
