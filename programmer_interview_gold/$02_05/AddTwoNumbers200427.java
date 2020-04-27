@@ -1,4 +1,4 @@
-package $002;
+package programmer_interview_gold.$02_05;
 
 /**
  * @author: suxun
