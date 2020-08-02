@@ -1,4 +1,4 @@
-package $61_rotate_linked_list;
+package $061_rotate_linked_list;
 
 /**
  * @author: suxun

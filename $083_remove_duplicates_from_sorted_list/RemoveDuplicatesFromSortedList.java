@@ -1,4 +1,4 @@
-package $83_remove_duplicates_from_sorted_list;
+package $083_remove_duplicates_from_sorted_list;
 
 /**
  * @author: suxun

@@ -1,4 +1,4 @@
-package $86_partition_list;
+package $086_partition_list;
 
 /**
  * @author: suxun
