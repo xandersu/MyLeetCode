@@ -1,8 +1,7 @@
-package $242;
+package $242_valid_anagram;
 
 import java.util.Collection;
 import java.util.HashMap;
-import java.util.HashSet;
 import java.util.Map;
 
 /**
