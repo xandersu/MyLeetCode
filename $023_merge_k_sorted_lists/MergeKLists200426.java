@@ -1,4 +1,4 @@
-package $023;
+package $023_merge_k_sorted_lists;
 
 /**
  * @author: suxun
