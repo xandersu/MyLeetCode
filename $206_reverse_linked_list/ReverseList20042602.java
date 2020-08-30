@@ -1,4 +1,4 @@
-package $206;
+package $206_reverse_linked_list;
 
 /**
  * @author: suxun
